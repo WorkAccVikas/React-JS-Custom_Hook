@@ -1,9 +1,11 @@
 import OnePage from "./hook/One";
+import TestPage from "./Test";
 
 function App() {
   return (
     <div>
-      <OnePage />
+      {/* <OnePage /> */}
+      <TestPage />
     </div>
   );
 }
