@@ -1,0 +1,1 @@
+- Modal close when we click outside of modal
