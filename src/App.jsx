@@ -1,11 +1,13 @@
 import OnePage from "./hook/One";
+import TwoPage from "./hook/Two";
 import TestPage from "./Test";
 
 function App() {
   return (
     <div>
       {/* <OnePage /> */}
-      <TestPage />
+      <TwoPage />
+      {/* <TestPage /> */}
     </div>
   );
 }

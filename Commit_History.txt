@@ -1,3 +1,6 @@
 1. Click Outside Custom Hook with event Propagation
 
 2. Event Bubbling and Event Capturing
+
+3. debouncing 
+    - using setTImeout, useRef, and useRef with callback function
